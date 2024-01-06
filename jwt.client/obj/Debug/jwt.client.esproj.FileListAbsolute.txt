@@ -1,0 +1,1 @@
+E:\Coding\.NET\ASP.NET_React\JWT\jwt.client\obj\Debug\jwt.client.esproj.CoreCompileInputs.cache
